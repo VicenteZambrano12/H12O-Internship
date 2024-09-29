@@ -15,4 +15,4 @@ The following codes were used for biomedical research, applying machine Learning
 * The file "Regresion_logistica" is a R script that perform logistic regressions witha test and a training set, also multinomial, and extract some validation measures.
 
 
-The comments in the files are ion Spanish, don´t headsite to ask me if you have any doubt.
+
